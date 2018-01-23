@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "boundary",
+}
