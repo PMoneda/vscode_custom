@@ -55,5 +55,9 @@
         "key": "shift+alt+i",
         "command": "-editor.action.insertCursorAtEndOfEachLineSelected",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+d shift+k",
+        "command": "workbench.action.toggleActivityBarVisibility"
     }
 ]
