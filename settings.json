@@ -5,7 +5,12 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.activityBar.visible": true,
+    "search.location": "sidebar",
+    "editor.insertSpaces": true,
     "files.exclude": {
         "**/__pycache__": true
     },
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "csharp.format.enable": false,
 }
